@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "disneyplus-clone-a33d5"
-  }
+    "default": "disneyplus-clone-6f939",
+    "hosting": "disneyplus-clone-6f939"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
